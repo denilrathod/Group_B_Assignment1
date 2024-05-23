@@ -1,0 +1,22 @@
+Backlogs 
+
+1. Task management integration: 
+    Evernote has task management system. Integrate evernote tasks with tasks management system in audit software. By this user tasks in evernote directly transfer to 
+    audit software. 
+
+2. Collaborative note editing: 
+    Enable team members to create, updat and comment on a single note and different group of notes. This will improve their collebration, performance, ease and 
+    communication. 
+
+3. Automatic sync: 
+   Ensure automatically sync of notes, tasks, photos of evernotes with the audit software.
+
+4. offline access: Develop and integrate software in this way that person can create, update in tasks offline. So if person has any issue with internet he or she can 
+   make notes.
+
+5. Report generation: 
+   Enable the generation of pdf file of any notes. So person can take out hard printout if needed. Also include different formats (pdf, words) and report can be send by 
+   these formats.
+
+6. Note Creation:
+    Enable note creation functionality. Notes can be created and updated for used later.

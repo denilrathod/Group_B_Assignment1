@@ -1,0 +1,34 @@
+Sprint goal: Integrate Evernote task management, colleboration note editing, automatic syn, offline sync, report generation and note taking freature into audit 
+software to improve the performance of civil and mechanical engineers 
+
+Sprint duration: 2 weeks 
+
+Sprint Tasks: 
+
+1. Evernote task management integration: 
+1.1. Research about Evernote task API 
+1.2. Implement task update functionality in audit software
+1.3. Build user interface to show task management in audit software
+
+2. Collabration note editing 
+2.1. Research Evernote collaborative task API 
+2.2. Implement collabrative note editing functionaliy in audit software 
+2.3. Build user interface to show collabrative task feature 
+
+3. Automatic Sync 
+3.1.  Research Evernote syn API and implement background sync feature 
+3.2 Develop UI with loader etc. feature to look good 
+
+4. Offline access 
+4.1. Develop local storage feature to store all data in laptop or mobile. When app is accessed data automatically stored in local storage. 
+
+5. Report generation 
+5.1 Research Evernote API to extract data 
+5.2 Create background loginc so that extracted data store in word or pdf file. 
+5.3 Develop this feature in this way that it can extract data from local storage. So this feature work in offline mode also. 
+
+6. Note Creation 
+6.1. Apply evernote note creation API in audit software. 
+6.2. Develop create and update feature.
+6.2. Develop search feature also.
+

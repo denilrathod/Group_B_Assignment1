@@ -1,0 +1,16 @@
+Scenario: Enhanced Inspection and Documentation
+
+Persona: Heena Sharma, Civil Engineer 
+
+Goal: To check inspection documentation is right and can be easily managed 
+
+Description: 
+
+Heena sharma responsibility is to do routine inspection of bridges, roads, tunnels etc. She takes pictures, notes, check previous notes, sometimes different types 
+of measurement also. She struggles always as she has stored here notes in different tools like laptop, mobile notes, sometimes she has to open her notebook. 
+It is really time consuming to open different tools just to see a little bit information. Sometimes she read  wrong information which effects her perfomance also. 
+
+User Story: 
+
+Heena really want integrate her company audit software to note taking software (evernote) to store all her notes, photos etc. in one reliable platform so her 
+performance will improve a lot. 
