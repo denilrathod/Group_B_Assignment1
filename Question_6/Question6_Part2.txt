@@ -1,0 +1,25 @@
+Competing Agile Project Management Tool is Trello that is  also subsidiary of  Atlassian and  is a more straight forward and visually oriented tool for project management.
+Comparison of JIRA and Trello
+Trello is Much easier to pick up due to its simplicity. The drag and drop interface is very attractive and it is quick to set up boards and lists. Ideal for beginners and small projects.
+JIRA is much more complex but offers deeper functionality. It takes a long time to learn but is more powerful for managing larger and more complex projects.
+Comparing the features 
+1.
+Trello uses boards, lists and cards to keep things organized. It is very visual and easy to move tasks between lists.
+JIRA uses issues that can be task , bugs, stories etc. It offers more detailed information and customization options for each issue.
+
+2.Trello also supports agile methodologies through Power Ups like the Scrum or Kanban board. However, these are less robust compared to JIRA's native support.
+JIRA is built specifically for agile with features like sprint planning, backlogs and tracking formed into the core product.
+
+3.Trell has Limited reporting features.We can add Power Ups for more advanced analytics, but these are not as comprehensive as JIRA's built in reports.
+JIRA has extensive reporting and analytics, including burndown charts, velocity charts and custom reports.
+
+4.Trello offers customization through Power Ups and integrations but this can add complexity and cost to the project.
+JIRA is highly customizable allowing for tailored workflows, fields and issue types right out of the box.
+
+5.Both the tools offer integrations with other software like Slack and GitHub.
+ 
+6.Trello can be used if  needs something simple to manage smaller projects or personal tasks Trello is a great choice. It is easy to learn and quick to set up making it ideal for student.
+JIRA is used while working on more complex projects especially involving software development in large teams. JIRA is more suitable.
+
+Trello is preferred because it is simple and ease to use. It allows a new user to understand basic project management concepts without getting overwhelmed.
+as proficiency grows switching to JIRA would be beneficial for handling more complex tasks and for larger scale projects and in depth agile management. 
