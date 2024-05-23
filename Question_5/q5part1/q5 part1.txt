@@ -1,0 +1,89 @@
+       PERSONA:-
+     
+     NAME:- Heena Sharma
+     AGE:- 30
+     OCCUPATION:- Civil Engineer
+     COMPANY:- Tech Tonic Solutions
+     EXPERIENCE:- Having 10 years of experience in field of civil engineering as well as infrastructure maintenance.
+     
+
+     GOALS:-
+      
+     1) Inspection of documentation should be accurate.
+     2) During the process of collaborating with clients she believes in improving communication skills.
+     3) Team members should work with collaboration .
+     
+
+     CHALLENGES:-
+
+    1) Keeping track of upcoming tasks.
+    2) Managing photos , notes taken during inspection in appropriate manner. 
+    3) Inconvenience in switching between tools for note taking and scheduling.
+    
+    SCENARIO 1:-Enhancing Efficiency in Infrastructure Audits with Evernote Integration.
+ 
+   SITUATION:-
+Heena is a civil engineer in Tech Tonic Company who is assigned with a task of documenting all notes and photos taken during inspection of 2 weeks on site and make a summary. It requires thorough documentation and precise notes. Currently she is using handwritten notes and photos clicked during that time but there is a risk of missed information which can be  dangerous for company. 
+
+   TASKS:-
+ Heena, needs to document all her findings accurately, schedule follow up appointments and share it with client. She also needs to keep track of all her notes and ensure that they are accessible both in the office and on-site.
+
+   ACTIONS TO DO:-
+ 
+   PREPRATION:- 
+1) Heena opens the audit software that includes Evernote functionality.
+2) She creates a new audit project within the software and starts a new Evernote notebook for this specific project.
+
+
+  NOTE TAKING DURING SITE VISITS:-
+1) Heena uses her tablet to take notes via photos, handmade notes and voice memos.
+2) Evernote’s tagging and search features help her organize and quickly retrieve specific information.
+3) With the help of Evernote templates she can ensure that all fields are filled out with each type of inspection.
+
+
+ Scheduling and Coordination:-
+1) Sher uses Evernote's calendar feature to schedule site visits and appointments directly visits from her notes.
+2) She sets reminders and syncs these with her main calendar to ensure she never misses an appointment.
+
+ COLLABORATION:-
+1) After completing  her site visits and shares her Evernote with her.
+2) She uses Evernote’s sharing options to send clients a link to the notebook, providing them with instant access to her findings and recommendations.
+
+
+ REPORT GENERATION:-
+1) After compiling all notes, photos, memos she created a structured, precise and detailed document.
+2) she can export this document in any format directly from Evernote sharing feature which is ready for client presentation.
+
+
+ Benefits:
+
+1)Improved productivity and efficiency in conducting audits.
+2)Enhanced accuracy and detail in documentation.
+3)Better time management and scheduling.
+4)More effective team collaboration and client communication.
+
+
+   
+
+
+
+
+ 
+ 
+
+   
+   
+   
+   
+  
+ 
+    
+
+
+
+
+    
+    
+    
+  
+    
